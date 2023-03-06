@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CatchTheGaara</string>
+    <string name="score">Skor </string>
+    <string name="time">Süre </string>
+    <string name="time_out">Süre Bitti</string>
+    <string name="restart">Yeniden</string>
+    <string name="are_you_sure_to_restart_game">Yeniden başlatmak istediğinize emin misiniz?</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="start">Başlat</string>
+    <string name="game_over">Oyun Bitti</string>
+
+</resources>
